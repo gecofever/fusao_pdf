@@ -1,0 +1,52 @@
+PLANO DE NEGOCIOS - Fusão de Dados Consultoria
+
+1. SUMARIO EXECUTIVO
+A Fusão de Dados Consultoria ajuda industrias e comercios de pequeno e medio porte em Campina Grande a tomar decisoes mais inteligentes e ageis por meio de servicos especializados em dados e automacoes.
+
+2. ANALISE DE MERCADO
+Campina Grande conta com aproximadamente 43.287 empresas ativas, sendo:
+- Microempresas: 36.783 (85%)
+- Empresas de pequeno porte: 2.097 (5%)
+- Medio e grande porte: 4.407 (10%)
+- MEIs: 21.422 (49%)
+Setores predominantes: servicos (45%), comercio (38,2%) e industria (8,4%), representando um mercado significativo para servicos de automacao e analise de dados.
+
+3. PROPOSTA DE VALOR
+Oferecemos solucoes personalizadas para transformar dados brutos em insights acionaveis, com destaque para eficiencia e otimizacao de processos para aumentar receita e melhorar operacoes.
+
+4. ESTRUTURA DE SERVICOS
+Diagnostico Empresarial
+Desenvolvimento de Solucoes
+Treinamento e Suporte
+Criacao e automacao de relatorios empresariais
+Implantacao de bancos de dados
+Dashboards interativos
+Automacao com Excel
+Agente de IA para Atendimento
+Agente de IA para Vendas
+Ingestao e analise de PDFs com IA
+
+5. PORTFOLIO DE CLIENTES
+Instituto de Pesquisas DATAVOX
+ANOVA Tecnologia em Pesquisas
+
+6. MODELO DE RECEITA E PRECOS
+Consultoria por Projeto
+Pacotes Mensais
+Treinamentos
+
+Faixa de Valores para Agentes de IA:
+Agente de Atendimento: R$ 1.500,00 a R$ 1.800,00 + manutencao mensal
+Agente de Vendas: R$ 2.400,00 a R$ 3.000,00 + manutencao mensal
+
+7. ESTRATEGIA DE MARKETING
+- Presenca Online
+- Parcerias Locais
+- Eventos e Workshops
+- Marketing de Conteudo
+
+8. PROXIMOS PASSOS
+- Formalizacao do Negocio
+- Identidade Visual
+- Criacao de Portfolio
+- Prospeccao de Clientes
